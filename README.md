@@ -1,2 +1,4 @@
 # payee-doc
-Payment[free] Gateway Document
+
+Pay\[free\] Document
+
