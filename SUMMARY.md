@@ -13,5 +13,5 @@
 * [wxpay](wxpay/README.md)
   * [app.md](wxpay/app.md)
 
-## Architecture
+## Design
 * [Introduction](arch/README.md)
