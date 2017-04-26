@@ -1,7 +1,7 @@
 # 需求分析
 
 ## 参考
-- https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.GSqOoN&treeId=204&articleId=105297&docType=1 (flow)
+- https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.GSqOoN&treeId=204&articleId=105297&docType=1 (pay_flow)
 - http://design.alipay.com/resource  (ui)
 
 ## APP支付
