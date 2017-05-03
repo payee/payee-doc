@@ -15,6 +15,9 @@
 
 ## Design
 * [design](design/README.md)
+  * [M1v0_1](design/M1v0_1.md)
+  * [M2v0_2](design/M2v0_2.md)
+  * [M3v0_3](design/M3v0_3.md)
 
 ## Architecture
 * [Introduction](arch/README.md)
