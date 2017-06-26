@@ -15,7 +15,7 @@
 
 ### WXSDK
 
-### ppp协议 (payee payment protocol)
+### pp协议 (payee protocol)
 
 ### od管理CMS
 - 网络中断，od状态未知。 提供人工修改订单状态功能
