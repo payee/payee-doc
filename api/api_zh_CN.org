@@ -1,12 +1,48 @@
 #+startup: showall
 #+author: dzh
 #+email: payee-dev@googlegroups.com
-#+title: Payee接口定义
+#+title: Payee APIs
 
-* 接口规范
+X-RateLimit-Limit: 用户每个小时允许发送请求的最大值
+X-RateLimit-Remaining：当前时间窗口剩下的可用请求数目
+X-RateLimit-Rest: 时间窗口重置的时候
+
+* 接口说明
+** 请求
+- '*'表示必要请求参数
+- 请求协议
+    - http[s]
+    - 支持http2
+- 接口格式 domain:port/[国码]/资源路径/资源操作 
+    - []表示可选路径，[国码]用于国际化，默认cn-中国。[[https://countrycode.org/][国家地区码定义]]
+    -
+- http头 [[https://en.wikipedia.org/wiki/List_of_HTTP_header_fields][http header]]
+    - Payee-Token 接口访问权限标示
+    - Payee-Version 接口版本号
+    - Accept:  ,自定义返回格式，默认json
+    - Content-Type: 
+- http请求体
+    - 
+** 响应
+** 编码
+** 国际化
+** 协议
+
+* 接口定义
+** 支付接口 /pay
+定义核心支付功能
+*** 
+
+** 支付配置 /cnf
+
+** 账户接口 /acc
+
+** 用户接口 /usr
+
+* 接口响应码
 
 
-* 支付接口
+
 
 
 
